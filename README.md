@@ -1,6 +1,5 @@
 # DebateSimulator
 This is a debate&amp; negotiation simulator. It solves problem by simulating the debate or negotiation process using chatGPT.
-This is a debate& negotiation simulator. It solves problem by simulating the debate or negotiation process using chatGPT.
 
 Here we simulate how to solve disputes by simulating the Arbitration process in court, where the claimant, respondent and arbitrator take turns to present their evidences, response the the claim or make judgements.
 
